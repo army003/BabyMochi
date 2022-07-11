@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/babymochi/static/css/main.f5a77cdd.css",
+    "main.js": "/babymochi/static/js/main.5644d0d3.js",
+    "static/js/787.e685928c.chunk.js": "/babymochi/static/js/787.e685928c.chunk.js",
+    "static/media/wp4338922-jimin-2019-wallpapers.jpg": "/babymochi/static/media/wp4338922-jimin-2019-wallpapers.4c343bc689f328fc6d27.jpg",
+    "static/media/jimm.jpg": "/babymochi/static/media/jimm.e6268521e9d7025f5e46.jpg",
+    "index.html": "/babymochi/index.html",
+    "main.f5a77cdd.css.map": "/babymochi/static/css/main.f5a77cdd.css.map",
+    "main.5644d0d3.js.map": "/babymochi/static/js/main.5644d0d3.js.map",
+    "787.e685928c.chunk.js.map": "/babymochi/static/js/787.e685928c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5a77cdd.css",
+    "static/js/main.5644d0d3.js"
+  ]
+}
