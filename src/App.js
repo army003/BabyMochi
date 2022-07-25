@@ -1,3 +1,6 @@
+import Bigraphy from "./components/bigraphy.jsx";
+import Dance from "./components/dance.jsx";
+import Dance2 from "./components/dance2.jsx";
 import Hero from "./components/hero.jsx";
 import Info from "./components/Info.jsx";
 import MoreInfo from "./components/moreInfo.jsx";
@@ -12,6 +15,9 @@ function App() {
       <Info />
       <Section />
       <MoreInfo />
+      <Dance />
+      <Bigraphy />
+      <Dance2 />
     </div>
   );
 }

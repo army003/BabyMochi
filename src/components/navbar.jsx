@@ -1,6 +1,6 @@
 import React from "react";
 import { useState } from "react";
-
+import Info from "./Info";
 import {
   AiOutlineMenu,
   AiOutlineClose,
@@ -15,10 +15,12 @@ const Navbar = () => {
     <div className="flex text-white pt-5 h-24 max-w-[1240px] mx-auto">
       <h1 className="w-full text-3xl font-bold text-[#00d] ml-[6%]">JIMIN</h1>
       <ul className="hidden sm:flex ">
-        <li className="p-4">Home</li>
-        <li className="p-4">Company</li>
-        <li className="p-4">Resourcers</li>
-        <li className="p-4">About</li>
+        <a href="#info">
+          <li className="p-4">Jimin</li>
+        </a>
+        <li className="p-4">Info</li>
+        <li className="p-4">Bio</li>
+        <li className="p-4">Dance</li>
       </ul>
       <div onClick={hundleNav} className="block sm:hidden mr-[8%] mt-[3%]">
         {nav ? <AiOutlineClose size={20} /> : <AiOutlineMenu size={20} />}
